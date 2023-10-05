@@ -339,7 +339,7 @@ section img#mountains_front {
   grid-template-rows: auto 1fr;
 }
 
-#page5 img {
+#page5 a {
   grid-row: 1; /* Place the object in the first row */
   grid-column: 1; /* Place the object in the first column */
   justify-self: center;
